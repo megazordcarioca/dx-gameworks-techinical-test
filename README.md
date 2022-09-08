@@ -14,3 +14,6 @@ Teste técnico para a Dx Gameworks utilizando blueprints na Unreal Engine 5
  - Quando a vida chega a zero, seja no personagem do jogador ou no inimigo, o personagem deve entrar em estado de “morto” e não deve mais poder atirar. Não deve ser possível sair desse estado sem recomeçar o jogo.
 
  - No level deve existir um estande com uma alavanca, quando o jogador sobe no estande o botão de tiro deve parar de atirar e passar a interagir com a alavanca, que pode ser ativada de um lado para o outro. Quando isso é feito o inimigo deve mudar de cor no material. 
+
+## Como executar o projeto :rocket:
+ Com o editor da Unreal Engine 5, clique em 'Abrir projeto' e em seguida, 'play'.
